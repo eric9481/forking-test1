@@ -8,3 +8,5 @@ Ivory
 Rach!
 India
 working on Git
+Eric
+Meta Front-End Development
